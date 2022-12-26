@@ -1,0 +1,31 @@
+/* .image {
+    width: 33%;
+    float: left;
+    padding: 5%;
+  }
+  .img {
+    width: 33%;
+    height: 10%;
+    opacity: 0.8;
+  }
+  .form {
+    width: 33%;
+    padding: 15%;
+    float: left;
+  }
+  .label {
+    font-size: large;
+    font-weight: 500;
+  }
+  
+  .Post {
+    border-width: 2px;
+    width: 10%;
+    cursor: pointer;
+  }
+   */
+   .content{
+                float:left; 
+                width:50%;
+                height:280px;
+   }
